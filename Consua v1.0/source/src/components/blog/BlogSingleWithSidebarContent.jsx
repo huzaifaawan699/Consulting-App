@@ -70,7 +70,7 @@ const BlogSingleWithSidebarContent = ({ blogInfo }) => {
                                         <Image src={team2Thumb} alt="Thumb" width={1900} height={995} />
                                     </div>
                                     <div className="info">
-                                        <h4><a href="#">Md Sohag</a></h4>
+                                        <h4><a href="#">Huzaifa</a></h4>
                                         <p>
                                             Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec at odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend. Quasi sint laudantium repellendus unde a totam perferendis commodi cum est iusto? Minima, laborum.
                                         </p>

@@ -20,13 +20,13 @@ const AboutStyle1 = () => {
                     <div className="row align-center">
                         <div className="about-style-one col-xl-6 col-lg-5">
                             <div className="h4 sub-heading">Feel Valued & Rewarded</div>
-                            <h2 className="title mb-25">Finance Consulting for Challenging Times</h2>
+                            <h2 className="title mb-25">Consulting for Challenging Times</h2>
                             <p>
-                                We work to understand your issues and are driven to ask better questions in the pursuit of making work. Me contained explained my education. Vulgar as hearts by garret. Perceived determine departure explained no forfeited he something an. Contrasted dissimilar get joy you instrument out reasonably. Again keep.
+                            "Consulting for Challenging Times: We work to understand your issues and are driven to ask better questions in the pursuit of meaningful solutions."
                             </p>
                             <div className="owner-info">
                                 <div className="left-info">
-                                    <h4>Richard Garrett</h4>
+                                    <h4>Ali Asgher </h4>
                                     <span>CEO & Founder</span>
                                 </div>
                                 <div className="right-info">

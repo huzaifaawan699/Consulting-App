@@ -18,7 +18,7 @@ const AboutStyle2 = ({ sectionClass }) => {
                                 <Image src={about7Thumb} alt="Image Not Found" />
                                 <Image src={about8Thumb} alt="Image Not Found" />
                                 <div className="experience">
-                                    <h2><strong>15</strong> Years experience</h2>
+                                    <h2><strong>5</strong> Years experience</h2>
                                 </div>
                                 <div className="shape">
                                     <Image src={anim5Shape} alt="Shape" />
@@ -26,7 +26,7 @@ const AboutStyle2 = ({ sectionClass }) => {
                             </div>
                         </div>
                         <div className="about-style-two col-lg-6 offset-lg-1">
-                            <h2 className="title">Finance Consulting for <br /> Challenging Times</h2>
+                            <h2 className="title"> Consulting for <br /> Challenging Times</h2>
                             <p>
                                 We work to understand your issues and are driven to ask better questions in the pursuit of
                                 making work. Me contained explained my education. Vulgar as hearts by garret. Perceived

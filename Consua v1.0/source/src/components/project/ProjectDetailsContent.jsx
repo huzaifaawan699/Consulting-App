@@ -20,13 +20,13 @@ const ProjectDetailsContent = ({ projectInfo }) => {
                                         <h4 className="title">Project Info</h4>
                                         <ul>
                                             <li>
-                                                Client <span>themeforest.validthemes.com</span>
+                                                Client <span>huzaifamalik2023.com</span>
                                             </li>
                                             <li>
                                                 Date <span>25 February, 2022</span>
                                             </li>
                                             <li>
-                                                Address <span>1401, 21st Street STE R4569, California</span>
+                                                Address <span>Gujranwala, Pakistan</span>
                                             </li>
                                         </ul>
                                         <ul className="social">

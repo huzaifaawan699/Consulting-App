@@ -14,7 +14,7 @@ const BlogPostComments = () => {
                     </div>
                     <div className="content">
                         <div className="title">
-                            <h5>Bubhan Prova <span className="reply"><Link href="#"><i className="fas fa-reply"></i> Reply</Link></span></h5>
+                            <h5>Ahmed Aslam  <span className="reply"><Link href="#"><i className="fas fa-reply"></i> Reply</Link></span></h5>
                             <span>28 Feb, 2023</span>
                         </div>
                         <p>
@@ -28,7 +28,7 @@ const BlogPostComments = () => {
                     </div>
                     <div className="content">
                         <div className="title">
-                            <h5>Mickel Jones <span className="reply"><Link href="#"><i className="fas fa-reply"></i> Reply</Link></span></h5>
+                            <h5>Huzaifa Fiaz <span className="reply"><Link href="#"><i className="fas fa-reply"></i> Reply</Link></span></h5>
                             <span>15 Mar, 2023</span>
                         </div>
                         <p>

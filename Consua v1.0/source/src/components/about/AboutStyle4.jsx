@@ -22,7 +22,7 @@ const AboutStyle4 = () => {
                             <div className="thumb mt-50 mt-xs-30">
                                 <Image src={about12thumb} alt="Image Not Found" />
                                 <div className="experience wow fadeInUp">
-                                    <h2><strong>1988</strong> Year of establishment</h2>
+                                    <h2><strong>2018</strong> Year of establishment</h2>
                                 </div>
                             </div>
                         </div>
