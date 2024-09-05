@@ -3015,7 +3015,8 @@ p {
 =================================================================== */
 
 .top-style-one .logo img {
-	height: 60px;
+	height: 100%;
+	
 }
 
 .top-style-one .social li {

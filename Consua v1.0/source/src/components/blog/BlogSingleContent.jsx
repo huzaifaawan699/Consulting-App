@@ -63,7 +63,7 @@ const BlogSingleContent = ({ blogInfo }) => {
                                         <Image src={team1Thumb} alt="Thumb" />
                                     </div>
                                     <div className="info">
-                                        <h4><Link href="#">Md Sohag</Link></h4>
+                                        <h4><Link href="#">Huzaifa </Link></h4>
                                         <p>
                                             Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec at odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend. Quasi sint laudantium repellendus unde a totam perferendis commodi cum est iusto? Minima, laborum.
                                         </p>

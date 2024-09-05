@@ -16,7 +16,7 @@ const AchievementCounter1 = () => {
                                 <div className="timer"><CountUp end={500} enableScrollSpy /></div>
                                 <div className="operator">+</div>
                             </div>
-                            <span className="medium">Business advices given over 30 years</span>
+                            <span className="medium">Business advices given over 5 years</span>
                         </div>
                     </li>
                     <li>

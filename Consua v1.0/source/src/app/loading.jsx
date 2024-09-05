@@ -8,6 +8,12 @@ const Loading = () => {
                     <div className="animation-preloader">
                         <div className="spinner"></div>
                         <div className="txt-loading">
+                            <span data-text-preloader="A" className="letters-loading">
+                                A
+                            </span>
+                            <span data-text-preloader="J" className="letters-loading">
+                                J
+                            </span>
                             <span data-text-preloader="C" className="letters-loading">
                                 C
                             </span>
@@ -23,8 +29,20 @@ const Loading = () => {
                             <span data-text-preloader="U" className="letters-loading">
                                 U
                             </span>
+                            <span data-text-preloader="L" className="letters-loading">
+                                L
+                            </span>
+                            <span data-text-preloader="T" className="letters-loading">
+                                T
+                            </span>
                             <span data-text-preloader="A" className="letters-loading">
                                 A
+                            </span>
+                            <span data-text-preloader="N" className="letters-loading">
+                                N
+                            </span>
+                            <span data-text-preloader="T" className="letters-loading">
+                                T
                             </span>
                         </div>
                     </div>
