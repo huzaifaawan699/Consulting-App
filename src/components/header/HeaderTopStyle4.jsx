@@ -10,10 +10,11 @@ const HeaderTopStyle4 = () => {
                         <div className="col-lg-7">
                             <ul className="item-flex">
                                 <li>
-                                    <i className="fas fa-map-marker-alt"></i> UMT , Lahore
+                                    <i className="fas fa-map-marker-alt"></i>SIBC Seri Iskandar Town, Perak, Malaysia
+
                                 </li>
                                 <li>
-                                    <a href="tel:+4733378901"><i className="fas fa-phone-alt"></i>+92------------</a>
+                                    <a href="tel:+4733378901"><i className="fas fa-phone-alt"></i>+60102926997</a>
                                 </li>
                             </ul>
                         </div>

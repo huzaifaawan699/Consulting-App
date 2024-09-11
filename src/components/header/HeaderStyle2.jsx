@@ -39,7 +39,7 @@ const HeaderStyle2 = () => {
                                             </div>
                                             <div className="info">
                                                 <p>Have any Questions?</p>
-                                                <h5><a href="mailto:info@crysta.com">huzaifamalik2023.com</a></h5>
+                                                <h5><a href="mailto:info@crysta.com">academicassistant121@gmail.com</a></h5>
                                             </div>
                                         </div>
                                     </li>

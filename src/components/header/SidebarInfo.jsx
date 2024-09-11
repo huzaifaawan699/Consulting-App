@@ -46,19 +46,20 @@ const SidebarInfo = ({ closeInfoBar, isInfoOpen, openInfoBar, searchOpen }) => {
                             <li>
                                 <div className="content">
                                     <p>Address</p>
-                                    <strong>UMT, Lahore</strong>
+                                    <strong>SIBC Seri Iskandar Town, Perak, Malaysia
+                                    </strong>
                                 </div>
                             </li>
                             <li>
                                 <div className="content">
                                     <p>Email</p>
-                                    <a href="mailto:support@validtheme.com"><strong>+92---------</strong></a>
+                                    <a href="mailto:support@validtheme.com"><strong>academicassistant121@gmail.com</strong></a>
                                 </div>
                             </li>
                             <li>
                                 <div className="content">
                                     <p>Contact</p>
-                                    <a href="tel:+44-20-7328-4499"> <strong>+92------</strong></a>
+                                    <a href="tel:+44-20-7328-4499"> <strong>+60102926997</strong></a>
                                 </div>
                             </li>
                         </ul>

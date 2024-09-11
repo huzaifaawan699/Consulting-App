@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "title": "Programming Language",
+        "title": "Market Research",
         "end": 88
     },
     {
         "id": 2,
-        "title": "Backend Development",
+        "title": "SEO Content Writing",
         "end": 95
     },
     {
         "id": 3,
-        "title": "Product Design",
+        "title": "Business Web Apps",
         "end": 80
     }
 ]

@@ -31,15 +31,15 @@
         "title": "Premium Plan",
         "text": "Increased processing power with multiple sites, storage.",
         "planCurrency": "$",
-        "planPrice": 29,
-        "planType": "/ Monthly",
+        "planPrice": 100,
+        "planType": "",
         "btnText": "Purchase Plan",
         "btnClass":"btn-dark",
         "listData": [
             {
                 "id": 1,
                 "listIcon": "fas fa-check-circle",
-                "listData": "1,300 Keywords"
+                "listData": "1,000 Keywords"
             },
             {
                 "id": 2,
@@ -60,7 +60,7 @@
         "text": "Target is processing power with multiple sites, storage.",
         "planCurrency": "$",
         "planPrice": 58,
-        "planType": "/ Monthly",
+        "planType": "",
         "btnText": "Purchase Plan",
         "btnClass":"btn-theme active-btn",
         "listData": [
@@ -88,7 +88,7 @@
         "text": "Mentionling processing power with multiple sites, storage.",
         "planCurrency": "$",
         "planPrice": 89,
-        "planType": "/ Monthly",
+        "planType": "",
         "btnText": "Purchase Plan",
         "btnClass":"btn-dark",
         "listData": [

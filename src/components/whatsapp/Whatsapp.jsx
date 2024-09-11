@@ -5,15 +5,15 @@ import React from 'react';
 import { FaWhatsapp } from 'react-icons/fa';
 
 const Whatsapp = () => {
-  const whatsappNumber = "+923028167655"; // Replace this with your own number
+  const whatsappNumber = "+60102926997"; // Replace this with your own number
 
   const buttonStyle = {
     position: 'fixed',
-    bottom: '20px',
-    right: '70px', // Increased right margin for more left space
+    bottom: '110px', // Adjusted to add 10px top margin by increasing bottom margin
+    right: '12px', // Increased right margin for more left space
     backgroundColor: '#25D366', // WhatsApp green color
     borderRadius: '50%',
-    padding: '20px',
+    padding: '15px',
     color: '#FFFFFF',
     fontSize: '24px',
     zIndex: '1000',

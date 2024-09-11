@@ -16,7 +16,7 @@ const AchievementCounter2 = () => {
                                 <div className="timer"><CountUp end={500} enableScrollSpy /></div>
                                 <div className="operator">+</div>
                             </div>
-                            <span className="medium">Website rank first over 30 years</span>
+                            <span className="medium">Website rank first over 10 years</span>
                         </div>
                     </li>
                     <li>
