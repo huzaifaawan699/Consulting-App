@@ -18,15 +18,15 @@ const ChooseStyle1 = () => {
                                 <h2 className="title mb-35">Be at the forefront of the new innovation</h2>
                                 <ul className="list-item">
                                     <li className="wow fadeInUp">
-                                        <h4>Best Business Consulting </h4>
+                                        <h4>Best Consulting </h4>
                                         <p>
-                                            Seeing rather her you not esteem men settle genius excuse. International Deal say over you age from. Comparison new ham melancholy son themselves.
+                                        We provide expert consulting with personalized solutions, ensuring high-quality service, thorough research, and exceptional results for every client.
                                         </p>
                                     </li>
                                     <li className="wow fadeInUp" data-wow-delay="300ms">
                                         <h4>24/7 Customer Support </h4>
                                         <p>
-                                            Tohether rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son.
+                                        Our firm offers unwavering support, day and night,Ensuring help is there, whenever you might require it.For academics and professionals alike,Our 24/7 customer service is a beacon of reliability.
                                         </p>
                                     </li>
                                 </ul>

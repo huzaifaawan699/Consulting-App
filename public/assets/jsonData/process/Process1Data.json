@@ -4,23 +4,23 @@
         "thumb": "3.jpg",
         "activeClass": "active",
         "steps": "01",
-        "title": "Differentiate from the competition",
-        "text": "Empowering your business with tailored digital solutions for unrivaled growth and efficiency."
+        "title": "Customized Solutions",
+        "text": "We are dedicated to crafting services that are uniquely suits to the individual needs of our clients. This commitment is reflected in our personalized consulting plans, projects and academic writing that meticulously adheres to specific guidelines and requirements.."
     },
     {
         "id": "2",
         "thumb": "6.jpg",
         "activeClass": "",
         "steps": "02",
-        "title": "Target the right people effectively",
-        "text": "Reach your ideal audience with precision through targeted, data-driven marketing strategies."
+        "title": "Sustainable Pricing and Quality Assurance",
+        "text": "At our firm, We offer sustainable, affordable pricing without compromising quality. Our rigorous quality assurance ensures exceptional academic writing and consulting, backed by thorough research, meticulous editing, and originality, delivering excellent work that exceeds client expectations."
     },
     {
         "id": "3",
         "thumb": "5.jpg",
         "activeClass": "",
         "steps": "03",
-        "title": "Communicate your story consistently",
-        "text": "Ensure your brand's narrative is cohesive and compelling across all channels."
+        "title": "Best in Content Writing",
+        "text": "Our firm offers top-tier SEO-based content writing, proofreading, and editing services for academicians and students. We ensure seamless keyword integration, delivering polished, error-free content that enhances visibility, professionalism, and impact, while maintaining academic integrity and high standards."
     }
 ]
