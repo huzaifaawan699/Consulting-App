@@ -15,7 +15,7 @@ const ContactInfo = () => {
                         </div>
                         <div className="content">
                             <h5 className="title">Call</h5>
-                            <a href="">+92 --------</a>
+                            <a href="">+60102926997</a>
                         </div>
                     </li>
                     <li className="wow fadeInUp" data-wow-delay="300ms">
@@ -25,7 +25,8 @@ const ContactInfo = () => {
                         <div className="info">
                             <h5 className="title">Our Location</h5>
                             <p>
-                                ---------------------------- <br /> lahore  City Pakistan
+                                <br />SIBC Seri Iskandar Town, Perak, Malaysia
+
                             </p>
                         </div>
                     </li>
@@ -35,7 +36,7 @@ const ContactInfo = () => {
                         </div>
                         <div className="info">
                             <h5 className="title">Official Email</h5>
-                            <a href="########">-----------</a>
+                            <a href="########">academicassistant121@gmail.com</a>
                         </div>
                     </li>
                 </ul>

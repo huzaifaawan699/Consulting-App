@@ -26,7 +26,7 @@ const AboutStyle1 = () => {
                             </p>
                             <div className="owner-info">
                                 <div className="left-info">
-                                    <h4>Ali Asgher </h4>
+                                    <h4>Jhon Smith </h4>
                                     <span>CEO & Founder</span>
                                 </div>
                                 <div className="right-info">

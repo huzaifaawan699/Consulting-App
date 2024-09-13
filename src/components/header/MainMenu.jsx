@@ -12,8 +12,6 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
                     <Link href="#" className="dropdown-toggle" data-toggle="dropdown" onClick={toggleSubMenu}>Pages</Link>
                     <ul className="dropdown-menu">
                         <li><Link href="/team">Team</Link></li>
-                        <li><Link href="/pricing">Pricing</Link></li>
-                        <li><Link href="/faq">FAQ</Link></li>
                     </ul>
                 </li>
                 <li className="dropdown">
@@ -28,13 +26,13 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
                         <li><Link href="/services">Services Version One</Link></li>
                     </ul>
                 </li>
-                <li className="dropdown">
+                {/* <li className="dropdown">
                     <Link href="#" className="dropdown-toggle" data-toggle="dropdown" onClick={toggleSubMenu}>Blog</Link>
                     <ul className="dropdown-menu">
                         <li><Link href="/blog-standard">Blog Standard</Link></li>
                         <li><Link href="/blog-single/1">Blog Single</Link></li>
                     </ul>
-                </li>
+                </li> */}
                 <li><Link href="/contact-us">Contact</Link></li>
             </ul>
         </>

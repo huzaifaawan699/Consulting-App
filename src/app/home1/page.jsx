@@ -1,7 +1,6 @@
 import LayoutStyle1 from '@/components/Layouts/LayoutStyle1';
 import AboutStyle1 from '@/components/about/AboutStyle1';
 import BannerStyle1 from '@/components/banner/BannerStyle1';
-import BlogStyle1 from '@/components/blog/BlogStyle1';
 import ChooseStyle1 from '@/components/choose/ChooseStyle1';
 import PartnerStyle1 from '@/components/partner/PartnerStyle1';
 import ProcessStyle1 from '@/components/process/ProcessStyle1';
@@ -13,7 +12,7 @@ import TestimonialStyle1 from '@/components/testimonial/TestimonialStyle1';
 import React from 'react';
 
 export const metadata = {
-    title: "Aj. - Consulting "
+    title: "Aj. - Consulting"
 }
 
 const Home1 = () => {
@@ -30,7 +29,6 @@ const Home1 = () => {
                 <ProjectStyle1 />
                 <RequestCallStyle1 />
                 <TestimonialStyle1 />
-                <BlogStyle1 sectionClass="bg-gray" />
             </LayoutStyle1>
         </>
     );

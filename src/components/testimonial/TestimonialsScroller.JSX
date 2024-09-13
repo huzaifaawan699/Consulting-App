@@ -1,8 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react'; 
 import SingleTestimonial1 from './SingleTestimonial1';  // Assuming this component is already defined
 
 const TestimonialsScroller = () => {
-    // Define testimonials as a JavaScript array
     const testimonials = [
         {
             id: 1,
@@ -39,21 +38,40 @@ const TestimonialsScroller = () => {
     ];
 
     const [currentIndex, setCurrentIndex] = useState(0);
+    const [slideIn, setSlideIn] = useState(true);
 
     useEffect(() => {
-        // Set an interval to automatically update the index every 5 seconds
+        // Interval to switch testimonials every 3 seconds
         const interval = setInterval(() => {
-            setCurrentIndex((prevIndex) => 
-                prevIndex === testimonials.length - 1 ? 0 : prevIndex + 1
-            );
-        }, 5000);
+            setSlideIn(false);  // Slide out effect
+            setTimeout(() => {
+                setCurrentIndex((prevIndex) => 
+                    prevIndex === testimonials.length - 1 ? 0 : prevIndex + 1
+                );
+                setSlideIn(true);  // Slide in effect
+            }, 500);  // 500ms for sliding transition
+        }, 3000);  // 3-second interval for changing testimonials
 
-        return () => clearInterval(interval);  // Cleanup interval on component unmount
-    }, []);
+        return () => clearInterval(interval);  // Cleanup interval on unmount
+    }, [testimonials.length]);
+
+    // Sliding effect with inline styles
+    const slideStyle = {
+        transform: slideIn ? 'translateX(0)' : 'translateX(-100%)',
+        transition: 'transform 0.5s ease-in-out',  // Smooth transition for 500ms
+        opacity: slideIn ? 1 : 0,
+        transition: 'opacity 0.5s ease-in-out'
+    };
 
     return (
-        <div className="testimonial-container">
-            <SingleTestimonial1 testimonial={testimonials[currentIndex]} />
+        <div style={{ width: '100%', overflow: 'hidden', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+            <div style={{ display: 'flex', width: `${testimonials.length * 100}%`, transition: 'transform 0.5s ease-in-out', transform: `translateX(-${currentIndex * 100}%)` }}>
+                {testimonials.map((testimonial, index) => (
+                    <div key={index} style={{ width: '100%', flexShrink: 0 }}>
+                        <SingleTestimonial1 testimonial={testimonial} />
+                    </div>
+                ))}
+            </div>
         </div>
     );
 };
