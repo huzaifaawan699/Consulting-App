@@ -1,10 +1,9 @@
-import React from 'react';
+import React from 'react'; 
 import Image from 'next/image';
 import Link from 'next/link';
 import shape7 from '@/assets/img/shape/7.png';
 import shape9 from '@/assets/img/shape/9.png';
 import logoLight from '@/assets/img/logo-light.png';
-import SocialShare from '../utilities/SocialShare';
 import Whatsapp from '../whatsapp/Whatsapp';
 
 const FooterStyle1 = ({ shape, shapeClass, logo }) => {
@@ -66,28 +65,8 @@ const FooterStyle1 = ({ shape, shapeClass, logo }) => {
                     <li>Email: <Link href="mailto:info@example.com">academicassistant121@gmail.com</Link></li>
                     <li>Phone: <Link href="tel:+1234567890">+60102926997</Link></li>
                     <li>Address: SIBC Seri Iskandar Town, Perak, Malaysia
-                  </li>
+                    </li>
                   </ul>
-                </div>
-              </div>
-
-              {/* Follow Us Section */}
-              <div className="col-lg-4 col-md-6 footer-item">
-                <div className="f-item social">
-                  <h4 className="widget-title">Follow Us</h4>
-                  <p>Stay connected through our social platforms for the latest updates.</p>
-                  <ul className="footer-social">
-                    <SocialShare />
-                  </ul>
-                </div>
-
-                {/* Newsletter Subscription */}
-                <div className="f-item newsletter mt-4">
-                  <h4 className="widget-title">Subscribe to Our Newsletter</h4>
-                  <form action="#" method="post">
-                    <input type="email" placeholder="Enter your email" required />
-                    <button type="submit" className="btn btn-primary">Subscribe</button>
-                  </form>
                 </div>
               </div>
             </div>
