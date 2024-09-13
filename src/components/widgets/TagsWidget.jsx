@@ -9,7 +9,7 @@ const TagsWidget = () => {
                 <h4 className="title">tags</h4>
                 <div className="sidebar-info">
                     <ul>
-                        <li><Link href="#" onClick={handleSmoothScroll}>Writing</Link>
+                        <li><Link href="#" onClick={handleSmoothScroll}>Fashion</Link>
                         </li>
                         <li><Link href="#" onClick={handleSmoothScroll}>Education</Link>
                         </li>
@@ -17,9 +17,9 @@ const TagsWidget = () => {
                         </li>
                         <li><Link href="#" onClick={handleSmoothScroll}>study</Link>
                         </li>
-                        <li><Link href="#" onClick={handleSmoothScroll}>Seo</Link>
+                        <li><Link href="#" onClick={handleSmoothScroll}>health</Link>
                         </li>
-                        <li><Link href="#" onClick={handleSmoothScroll}>Web Development</Link>
+                        <li><Link href="#" onClick={handleSmoothScroll}>travel</Link>
                         </li>
                     </ul>
                 </div>
