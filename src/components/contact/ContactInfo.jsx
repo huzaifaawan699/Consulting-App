@@ -15,7 +15,7 @@ const ContactInfo = () => {
                         </div>
                         <div className="content">
                             <h5 className="title">Call</h5>
-                            <a href="">+60102926997</a>
+                            <a href="tel:+60102926997">+60102926997</a>
                         </div>
                     </li>
                     <li className="wow fadeInUp" data-wow-delay="300ms">
@@ -26,7 +26,6 @@ const ContactInfo = () => {
                             <h5 className="title">Our Location</h5>
                             <p>
                                 <br />SIBC Seri Iskandar Town, Perak, Malaysia
-
                             </p>
                         </div>
                     </li>
@@ -36,7 +35,8 @@ const ContactInfo = () => {
                         </div>
                         <div className="info">
                             <h5 className="title">Official Email</h5>
-                            <a href="########">academicassistant121@gmail.com</a>
+                            {/* Use mailto to open email client */}
+                            <a href="mailto:academicassistant121@gmail.com">academicassistant121@gmail.com</a>
                         </div>
                     </li>
                 </ul>
