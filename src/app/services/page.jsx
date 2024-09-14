@@ -7,7 +7,7 @@ import TeamStyle1 from '@/components/team/TeamStyle1';
 import React from 'react';
 
 export const metadata = {
-    title: "Consulting Business - Services"
+    title: "AJ-CONSULTING"
 }
 
 const ServicesPage = () => {
