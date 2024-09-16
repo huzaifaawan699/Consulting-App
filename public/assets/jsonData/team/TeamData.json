@@ -3,9 +3,9 @@
         "id": 1,
         "activeClass": "active",
         "memberThumb": "1.jpg",
-        "designation": "CEO & Founder",
-        "name": "Jhon Smith",
-        "email": "sohag@digital.com",
+        "designation": "CEO & FOUNDER ",
+        "name": "DR.ALI",
+        "FONE": "+60102926997",
         "skillProgress": [
             {
                 "id": 1,
@@ -19,7 +19,7 @@
             },
             {
                 "id": 3,
-                "title": "Business Planning",
+                "title": "MANAGMENT",
                 "end": 80
             }
         ],
@@ -31,13 +31,13 @@
                     {
                         "id": 1,
                         "title": "Residential College",
-                        "info": "BA Honours - Biology",
+                        "info": "BA Honours-Marketing",
                         "timeSpan": "2004 - 2008"
                     },
                     {
                         "id": 2,
                         "title": "University of Iowa",
-                        "info": "Master's degree - Macroeconomics",
+                        "info": "PhD in Marketing & Managment",
                         "timeSpan": "2009 - 2012"
                     }
                 ]
@@ -49,7 +49,7 @@
                     {
                         "id": 1,
                         "title": "Product Manager",
-                        "info": "Samsung Bangladesh",
+                        "info": "Samsung SUDIA",
                         "timeSpan": "31 Aug, 2013"
                     },
                     {
@@ -67,22 +67,22 @@
         "activeClass": "",
         "memberThumb": "2.jpg",
         "designation": "Product Manager",
-        "name": "Kevin Martin",
-        "email": "kevin@digital.com",
+        "name": "GRACE ARTHUR",
+        "email": "",
         "skillProgress": [
             {
                 "id": 1,
-                "title": "Programming Language",
+                "title": "MANAGMENT",
                 "end": 88
             },
             {
                 "id": 2,
-                "title": "Backend Development",
+                "title": "CONTENT",
                 "end": 95
             },
             {
                 "id": 3,
-                "title": "Product Design",
+                "title": "THESIS",
                 "end": 80
             }
         ],
@@ -136,17 +136,17 @@
             {
                 "id": 1,
                 "title": "Programming Language",
-                "end": 88
+                "end": 80
             },
             {
                 "id": 2,
                 "title": "Backend Development",
-                "end": 95
+                "end": 90
             },
             {
                 "id": 3,
-                "title": "Product Design",
-                "end": 80
+                "title": "SEO SKILS",
+                "end": 87
             }
         ],
         "memberData": [
@@ -157,14 +157,14 @@
                     {
                         "id": 1,
                         "title": "Residential College",
-                        "info": "BA Honours - Biology",
-                        "timeSpan": "2004 - 2008"
+                        "info": "BS SOFTWARE ENG",
+                        "timeSpan": "2018 - 2022"
                     },
                     {
                         "id": 2,
-                        "title": "University of Iowa",
-                        "info": "Master's degree - Macroeconomics",
-                        "timeSpan": "2009 - 2012"
+                        "title": "University of LAHORE",
+                        "info": "SEO SPECIALIST ",
+                        "timeSpan": ""
                     }
                 ]
             },
@@ -175,14 +175,14 @@
                     {
                         "id": 1,
                         "title": "Product Manager",
-                        "info": "Samsung Bangladesh",
-                        "timeSpan": "31 Aug, 2013"
+                        "info": " CIRCLE AI",
+                        "timeSpan": "31 Aug, 2022"
                     },
                     {
                         "id": 2,
                         "title": "Senior Marketing",
-                        "info": "Manuring Technology Company",
-                        "timeSpan": "12 Dec 2018"
+                        "info": "SEO -AGENCY IN PAKISTAN",
+                        "timeSpan": "12 Dec 2020"
                     }
                 ]
             }
@@ -204,7 +204,7 @@
             {
                 "id": 2,
                 "title": "Backend Development",
-                "end": 95
+                "end": 75
             },
             {
                 "id": 3,
@@ -220,14 +220,14 @@
                     {
                         "id": 1,
                         "title": "Residential College",
-                        "info": "BA Honours - Biology",
-                        "timeSpan": "2004 - 2008"
+                        "info": "BS -UMT ",
+                        "timeSpan": "2015 - 2019"
                     },
                     {
                         "id": 2,
-                        "title": "University of Iowa",
-                        "info": "Master's degree - Macroeconomics",
-                        "timeSpan": "2009 - 2012"
+                        "title": "University of MANAGMENT AND TEC",
+                        "info": "Master's degree - IT",
+                        "timeSpan": "2020 - 2024"
                     }
                 ]
             },
@@ -238,8 +238,8 @@
                     {
                         "id": 1,
                         "title": "Product Manager",
-                        "info": "Samsung Bangladesh",
-                        "timeSpan": "31 Aug, 2013"
+                        "info": "PAKISTAN NET-SOL",
+                        "timeSpan": "2021-2022"
                     },
                     {
                         "id": 2,

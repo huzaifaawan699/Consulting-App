@@ -26,8 +26,10 @@ const AboutStyle1 = () => {
                             </p>
                             <div className="owner-info">
                                 <div className="left-info">
-                                    <h4>Jhon Smith </h4>
-                                    <span>CEO & Founder</span>
+                                    <h4>DR.ALI </h4>
+                                    <span>CEO & Founder <br> PhD MARKETING & MANAGMENT
+                                    </span>
+                                    
                                 </div>
                                 <div className="right-info">
                                     <Image src={signatureThumb} alt="Image Not Found" />
