@@ -22,7 +22,7 @@ const TeamDetailsContent = ({ teamInfo }) => {
                                 <h2>{[name]}</h2>
                                 <span>{[designation]}</span>
                                 <p>
-                               <h3> Vision Statement:</h3>
+                               <h2> Vision Statement:</h2>
                                       To be a globally recognized leader in providing expert consultancy and content / academic writing services that empower individuals and organizations to achieve their highest potential in the fields of management and marketing.
 
                                <h3> Mission Statement: </h3>
