@@ -22,7 +22,11 @@ const TeamDetailsContent = ({ teamInfo }) => {
                                 <h2>{[name]}</h2>
                                 <span>{[designation]}</span>
                                 <p>
-                                    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring house in never fruit up. Pasture imagine my garrets..
+                               <h3> Vision Statement:</h3>
+                                      To be a globally recognized leader in providing expert consultancy and content / academic writing services that empower individuals and organizations to achieve their highest potential in the fields of management and marketing.
+
+                               <h3> Mission Statement: </h3>
+                                    To deliver exceptional consultancy and academic writing services that are grounded in rigorous research, innovative thinking, and a deep understanding of management and marketing principles, thereby enabling our clients to excel in their academic and professional endeavors.
                                 </p>
 
                                 <ul>
@@ -32,7 +36,7 @@ const TeamDetailsContent = ({ teamInfo }) => {
                                     </li>
                                     <li>
                                         <strong>Phone:</strong>
-                                        <a href="tel:123-456-7890">+92------</a>
+                                        <a href="+60102926997">+60102926997</a>
                                     </li>
                                 </ul>
                                 <div className="social">
