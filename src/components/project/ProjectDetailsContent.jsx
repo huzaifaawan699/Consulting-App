@@ -20,13 +20,13 @@ const ProjectDetailsContent = ({ projectInfo }) => {
                                         <h4 className="title">Project Info</h4>
                                         <ul>
                                             <li>
-                                                Client <span>huzaifamalik2023.com</span>
+                                                Client <span>bezack@gmail.com</span>
                                             </li>
                                             <li>
                                                 Date <span>25 February, 2022</span>
                                             </li>
                                             <li>
-                                                Address <span>Gujranwala, Pakistan</span>
+                                                Address <span>George town , Malaysia</span>
                                             </li>
                                         </ul>
                                         <ul className="social">
@@ -35,9 +35,9 @@ const ProjectDetailsContent = ({ projectInfo }) => {
                                     </div>
                                 </div>
                                 <div className="col-xl-8 col-lg-7 pr-35 pr-md-15 pr-xs-15 left-info mt-md-10">
-                                    <h2>B & Solution</h2>
+                                    <h2>AJ.Solution</h2>
                                     <p>
-                                        Netus lorem rutrum arcu dignissim at sit morbi phasellus nascetur eget urna potenti cum vestibulum cras. Tempor nonummy metus lobortis. Sociis velit etiam, dapibus. Lectus vehicula pellentesque cras posuere tempor facilisi habitant lectus rutrum pede quisque hendrerit parturient posuere mauris ad elementum fringilla facilisi volutpat fusce pharetra felis sapien varius quisque class convallis praesent est sollicitudin donec nulla venenatis, cursus fermentum netus posuere sociis porta risus habitant malesuada nulla habitasse hymenaeos.
+                                    AJ-Consultants specializes in delivering innovative solutions across various domains, including PhD and MS thesis projects, SEO-friendly web content, AI web applications, and e-commerce store development. Our team assists students and researchers in navigating complex academic requirements, offering guidance on research methodologies, data analysis, and presentation techniques to enhance their thesis quality. In the digital landscape, we create SEO-friendly web content that improves visibility and engagement, employing best practices in keyword optimization and user experience design. Additionally, our expertise in developing AI-driven web applications and responsive e-commerce platforms ensures businesses provide seamless, user-friendly experiences across all devices. We prioritize enhancing customer interactions through intelligent solutions that drive conversions and streamline operations. Furthermore, AJ-Consultants provides comprehensive consulting services tailored to meet the unique needs of each client. Our experienced consultants offer strategic planning, operational insights, and hands-on support to help organizations overcome challenges and achieve their goals. By combining our deep industry knowledge with a commitment to excellence, AJ-Consultants empowers businesses and individuals to realize their full potential in a competitive environment.
                                     </p>
                                     <ul className="check-list">
                                         {projectData.map(list =>
@@ -52,8 +52,7 @@ const ProjectDetailsContent = ({ projectInfo }) => {
                         </div>
                         <div className="main-content">
                             <p>
-                                Give lady of they such they sure it. Me contained explained my education. Vulgar as hearts by garret. Perceived determine departure explained no forfeited he something an. Contrasted dissimilar get joy you instrument out reasonably. Again keeps at no meant stuff. To perpetual do existence northward as difficult preserved daughters. Continued at up to zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet her.  Facilisis inceptos nec, potenti nostra aenean lacinia varius semper ant nullam nulla primis placerat facilisis. Netus lorem rutrum arcu dignissim at sit morbi phasellus nascetur eget urna potenti cum vestibulum cras. Tempor nonummy metus lobortis. Sociis velit etiam, dapibus. Lectus vehicula pellentesque cras posuere tempor facilisi habitant lectus rutrum pede quisque hendrerit parturient posuere mauris ad elementum fringilla facilisi volutpat fusce pharetra felis sapien varius quisque class convallis praesent est sollicitudin donec nulla venenatis, cursus fermentum netus posuere sociis porta risus habitant malesuada nulla habitasse hymenaeos. Viverra curabitur nisi vel sollicitudin dictum natoque.
-                            </p>
+                            One of the key advantages of consulting services is their ability to deliver specialized expertise in areas like marketing, operations, technology, and financial management. Consultants not only identify areas for improvement but also provide actionable recommendations to solve complex problems. Moreover, they assist in the implementation of these strategies, ensuring that businesses can execute their plans effectively and see tangible results. </p>
                             <div className="row">
                                 <div className="col-lg-6 col-md-6">
                                     <Image src="/assets/img/gallery/3.jpg" alt="Thumb" width={800} height={600} />
