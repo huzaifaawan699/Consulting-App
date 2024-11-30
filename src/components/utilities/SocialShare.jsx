@@ -5,7 +5,7 @@ const SocialShare = () => {
     return (
         <>
             <li>
-                <Link className="facebook" href="https://www.facebook.com/" target="_blank">
+                <Link className="facebook" href="https://web.facebook.com/profile.php?id=61568239814851" target="_blank">
                     <i className="fab fa-facebook-f"></i>
                 </Link>
             </li>
@@ -20,7 +20,7 @@ const SocialShare = () => {
                 </Link>
             </li>
             <li>
-                <Link className="linkedin" href="https://www.linkedin.com/" target="_blank">
+                <Link className="linkedin" href="https://www.linkedin.com/in/muhammad-asghar-ali-963b32101/" target="_blank">
                     <i className="fab fa-linkedin-in"></i>
                 </Link>
             </li>
