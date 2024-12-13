@@ -20,6 +20,7 @@ import '@/assets/css/style.css';
 import Dependency from '@/components/utilities/Dependency';
 import { ToastContainer } from 'react-toastify';
 import { Manrope, Outfit } from "next/font/google";
+import Head from 'next/head';
 
 const manrope = Manrope({ subsets: ["latin"] });
 const outfit = Outfit({ subsets: ["latin"] });
@@ -34,7 +35,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <head>
+      <Head>
         {/* Meta Tags for SEO */}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content={metadata.description} />
@@ -50,21 +51,28 @@ export default function RootLayout({ children }) {
 
         {/* Google Tag Manager */}
         <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=AW-789291672"
-        ></script>
-        <script
           dangerouslySetInnerHTML={{
             __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'AW-789291672');
+              (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+              'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+              })(window,document,'script','dataLayer','GTM-PQMN765C');
             `,
           }}
         />
-      </head>
+      </Head>
       <body className={`${outfit.className} ${manrope.className}`}>
+        {/* Google Tag Manager (noscript) */}
+        <noscript>
+          <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-PQMN765C"
+            height="0"
+            width="0"
+            style={{ display: 'none', visibility: 'hidden' }}
+          ></iframe>
+        </noscript>
+
         <ToastContainer />
         <Dependency />
         {children}
