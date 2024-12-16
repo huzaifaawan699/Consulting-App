@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import anim1Thumb from "@/assets/img/shape/anim-1.png";
-import anim2Thumb from "@/assets/img/shape/anim-2.png";
+import a10Thumb from "@/assets/img/shape/18.png";
 import anim3Thumb from "@/assets/img/shape/anim-3.png";
 import anim4Thumb from "@/assets/img/shape/anim-4.png";
 import aboutThumb from "@/assets/img/about/1.jpg";
@@ -14,7 +14,7 @@ const AboutStyle1 = () => {
       <div className="about-style-one-area default-padding">
         <div className="shape-animated-left">
           <Image src={anim1Thumb} alt="Image Not Found" />
-          <Image src={anim2Thumb} alt="Image Not Found" />
+          <Image src={a10Thumb} alt="Image Not Found" />
         </div>
         <div className="container">
           <div className="row align-center">
