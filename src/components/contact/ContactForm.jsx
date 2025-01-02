@@ -15,7 +15,7 @@ const ContactForm = () => {
 
     const serviceID = "service_7uqdi6d"; // Replace with your EmailJS service ID
     const templateID = "template_l2rvbgp"; // Replace with your EmailJS template ID
-    const userID = "academicassistant121@gmail.com"; // Replace with your EmailJS user ID
+    const userID = "89HU5cd8IhEme7m9d"; // Replace with your EmailJS user ID
 
     // Collect form data
     const formData = {
